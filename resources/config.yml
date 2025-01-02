@@ -1,0 +1,23 @@
+messages:
+  main_menu_title: "Casino"
+  blackjack_button: "Blackjack"
+  coin_flip_button: "Coin Flip"
+  number_guess_button: "Number Guess"
+
+  blackjack_title: "Blackjack"
+  blackjack_description: "Try to get closer to 21 than the dealer without going over!"
+  bet_amount_label: "Bet Amount"
+
+  coin_flip_title: "Coin Flip"
+  coin_flip_description: "Choose heads or tails and place your bet!"
+  coin_flip_heads_label: "Heads/Tails"
+
+  number_guess_title: "Number Guess"
+  number_guess_description: "Guess a number between 1 and 10!"
+  number_guess_guess_label: "Your Guess (1-10)"
+
+  minimum_bet: "§cMinimum bet is 1!"
+  insufficient_funds: "§cInsufficient funds!"
+  account_not_found: "§cAccount not found!"
+  error_checking_balance: "§cError checking balance!"
+  error_updating_balance: "§cError updating balance!"

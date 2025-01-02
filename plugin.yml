@@ -1,0 +1,14 @@
+name: Casino
+main: SoyDavs\Casino\Main
+version: 1.0.0
+api: 5.0.0
+author: SoyDavs
+
+commands:
+  casino:
+    description: Open the casino menu
+    permission: casino.command
+
+permissions:
+  casino.command:
+    default: true
